@@ -1,0 +1,2052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04c7c4ad-efd7-40e0-8f5b-dae41b691af8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/Amt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/GrpHdr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/GrpHdr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/Id.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/InitgPty.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_jdbc_jdbc_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc7_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_7_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ojdbc_ojdbc_10_2_0_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ojdbc_ojdbc_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom2_2_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgId.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlGrpInfAndSts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndSts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/OrgnlTxRef.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/PmtInf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/RejTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/Rsn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/StsRsnInf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/TxInfAndSts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/allRejTable.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/allpmt.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/headers/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-3.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/mycss/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sendXML.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/mycss/xmlupload.css" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__com_itextpdf_itextpdf_5_5_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__commons_codec_commons_codec_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__javax_persistence_persistence_api_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_apache_poi_poi_3_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_bouncycastle_bcmail_jdk14_1_60.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_bouncycastle_bcpkix_jdk14_1_60.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_bouncycastle_bcprov_jdk14_1_60.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_4_0_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_hibernate_hibernate_core_4_3_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_postgresql_postgresql_9_2_1003_jdbc4.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_postgresql_postgresql_9_4_1206_jdbc42.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_aop_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_beans_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_context_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_core_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_expression_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_jdbc_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_orm_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_test_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_tx_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_web_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_springframework_spring_webmvc_4_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_xhtmlrenderer_flying_saucer_core_9_1_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__org_xhtmlrenderer_flying_saucer_pdf_9_1_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\Procfile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\controllers\ExcelPDFController.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\controllers\OutputPhoto.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\controllers\RegistrationController.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\controllers\RemoveController.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\controllers\SaveController.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\controllers\UpdateController.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\Categories.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\Company.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\Courier.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\DealerAdmin.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\ExcelDocument.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\Groups.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\GroupsUs.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\MyOrderToHistory.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\PDFDocument.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\Shops.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\UndGroups.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\Categories2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\Company2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\Courier2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\Groups2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\GroupsUs2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\MyOrder3.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\MyOrder4.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\MyOrderAndCourierId.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\Products2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\Shops2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\Success.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\UndGroups2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\service\IdZ.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\config\excel-pdf-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\accepted_orders.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_category.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_category2.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_category_change.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_courier.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_courier2.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_groups.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_groups2.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_product.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_product2.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\add_shops.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\admin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\admin_add_company.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\admin_add_company_result.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\admin_change_company.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\admin_shop_info.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\admin_shops.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\all_shops.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\all_shops_in_map.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\completed_orders.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\courier_change.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\couriers.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\del_result.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\details_order.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\details_order_history.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\groupsParam.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\groupsParamResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\header_menu\admin_header.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\header_menu\admin_header_add_company.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\header_menu\admin_header_shops.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\header_menu\all_shops_header.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\header_menu\courier_header.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\header_menu\history_header.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\header_menu\new_orders.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\header_menu\products_header.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\hello.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\history.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\left_menu.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\myorders_in_map.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\new_orders.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\new_orders_concr_shop.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\product_change.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\products.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\result_search_adding_shops.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\shop_info.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\showUsers.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\sign_in.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\sign_in_admin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\css\menu_style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\fonts\ariblk.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\fonts\cour.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\fonts\fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\js\skel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\assets\js\util.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\add_category.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\add_courier.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\add_courier2.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\add_product.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\add_product2.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\admin.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\courier.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\create_groups.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\details_order.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\details_order_history.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\goods.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\groupsParam.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\history.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\myorders_in_map.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\new_orders.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\shop_info.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\shops.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\shopsInMap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\css\mycss\sign_in.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images\check.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images\favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images\icon_down.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images\icons_checked.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images\icons_unchecked.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images\running.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images\shop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images\uncheck.png" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\MyOrder.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models4testokhttp/MyOrder.java" />
+      <change type="MOVED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\model_for_users\Products.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models4testokhttp/Products.java" />
+      <change type="MOVED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models2\Courier3.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models4testokhttp/Courier2.java" />
+      <change type="MOVED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\service\CustomDialect.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/service/CustomDialectToMsSql.java" />
+      <change type="MOVED" beforePath="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\header_menu\add_shops_header.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/headers/header2.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/rest_api/MyRestControllerToAndroid.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/rest_api/MyRestControllerToAndroid.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/service/MyServiceClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/service/MyServiceClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dealer.iml" afterPath="$PROJECT_DIR$/dealer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/dealer_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/dealer_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/dealer_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/dealer_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="dealer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dealer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CdtrAcct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/RmtInf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CdtTrfTxInf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/DbtrAcct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/DbtrAgt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/Dbtr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/PmtInfPackage/DbtrAgt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/PmtInfPackage/DbtrAcct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/PmtInfPackage/CdtTrfTxInf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CdtTrfTxInfPackage/RmtInf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CdtTrfTxInfPackage/PmtId.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CdtTrfTxInfPackage/CdtrAgt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CdtTrfTxInfPackage/CdtrAcct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CdtTrfTxInfPackage/Amt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CdtTrfTxInfPackage/Cdtr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/PmtInfPackage/Dbtr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CdtTrfTxInfPackage/PrvtId.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/mycss/xmledit.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/mycss/list.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/headers/header2.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/InitgPty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgId.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/Id.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/GrpHdr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/CstmrPmtStsRpt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlGrpInfAndSts.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/allRejTable.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/Rsn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/StsRsnInf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/TxInfAndSts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/Amt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/OrgnlTxRef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/CstmrPmtStsRpt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndSts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/RejTable.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/mycss/xmlupload.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/allpmt.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models4testokhttp/Products.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models4testokhttp/Courier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models4testokhttp/MyOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/RequestToFognRes.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/headers/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/GrpHdr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/PmtInf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/service/MyServiceClass.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sendXML.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Bean Validation issues</id>
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issues</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Dependency issues</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+          <State>
+            <id>Memory issues</id>
+          </State>
+          <State>
+            <id>Modularization issues</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Packaging issues</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Security issues</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="headers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modelsToXml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modelsToXml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OrgnlPmtInfAndStsUnd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models4testokhttp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dealer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="options.lastSelected" value="preferences.lookFeel" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ojdbc7.jar!/" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/zverek/IdeaProjects/dealer/src/main/java/com/springapp/mvc/model_for_users/Products.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maksat\IdeaProjects\Parser\src\main\java\com\springapp\mvc\models4testokhttp" />
+      <recent name="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\js" />
+      <recent name="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\WEB-INF\pages\headers" />
+      <recent name="C:\Users\maksat\IdeaProjects\Parser\src\main\webapp\resources\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zverek\IdeaProjects\dealer\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\Users\zverek\IdeaProjects\dealer\src\main\webapp\resources\assets\fonts" />
+      <recent name="C:\Users\zverek\IdeaProjects\dealer\src\main" />
+      <recent name="C:\Users\zverek\IdeaProjects\dealer\src\main\webapp\WEB-INF\config" />
+      <recent name="C:\Users\zverek\IdeaProjects\dealer\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springapp.mvc.modelsToXml.OrgnlPmtInfAndStsUnd" />
+      <recent name="com.springapp.mvc.modelsToXml" />
+      <recent name="com.springapp.mvc.models" />
+      <recent name="com.springapp.mvc.models2" />
+      <recent name="com.springapp.mvc.model_for_users" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="heroku-deploy" factoryName="Heroku Deployment">
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.39" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="dealer:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Dealer_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="4988" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="dealer:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AppTests" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zverek\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04c7c4ad-efd7-40e0-8f5b-dae41b691af8" name="Default" comment="" />
+      <created>1541419409688</created>
+      <option name="number" value="Default" />
+      <updated>1541419409688</updated>
+      <workItem from="1541419414784" duration="1038000" />
+      <workItem from="1541422639153" duration="13977000" />
+      <workItem from="1541441732767" duration="1967000" />
+      <workItem from="1541508209912" duration="6126000" />
+      <workItem from="1541516819157" duration="8173000" />
+      <workItem from="1541527501137" duration="12017000" />
+      <workItem from="1541600268597" duration="2636000" />
+      <workItem from="1541611628104" duration="1197000" />
+      <workItem from="1541621064050" duration="3703000" />
+      <workItem from="1541871309882" duration="1433000" />
+      <workItem from="1541872965352" duration="3224000" />
+      <workItem from="1541943033512" duration="4586000" />
+      <workItem from="1541950843065" duration="6411000" />
+      <workItem from="1542108769196" duration="4429000" />
+      <workItem from="1542124257083" duration="43000" />
+      <workItem from="1542135201503" duration="8195000" />
+      <workItem from="1542219710154" duration="3586000" />
+      <workItem from="1542289563896" duration="113000" />
+      <workItem from="1542289710535" duration="4347000" />
+      <workItem from="1542304265836" duration="202000" />
+      <workItem from="1542304722059" duration="4383000" />
+      <workItem from="1542309645172" duration="8324000" />
+      <workItem from="1542360821294" duration="5654000" />
+      <workItem from="1542367200587" duration="1484000" />
+      <workItem from="1542452878628" duration="3084000" />
+      <workItem from="1542529593644" duration="13118000" />
+      <workItem from="1542624962853" duration="5585000" />
+      <workItem from="1542631525698" duration="6411000" />
+      <workItem from="1542711116657" duration="12207000" />
+      <workItem from="1543008329418" duration="1984000" />
+      <workItem from="1543078612138" duration="18000" />
+      <workItem from="1543078945192" duration="31000" />
+      <workItem from="1547281536379" duration="2876000" />
+      <workItem from="1547557181303" duration="22000" />
+      <workItem from="1548608112761" duration="2226000" />
+      <workItem from="1548848456351" duration="1202000" />
+      <workItem from="1548871459022" duration="1602000" />
+      <workItem from="1548928930221" duration="9596000" />
+      <workItem from="1549107475707" duration="6206000" />
+      <workItem from="1549126034049" duration="970000" />
+      <workItem from="1549127108554" duration="1263000" />
+      <workItem from="1549286823559" duration="8493000" />
+      <workItem from="1549453453628" duration="13036000" />
+      <workItem from="1549887337654" duration="2792000" />
+      <workItem from="1549895138775" duration="938000" />
+      <workItem from="1549974100859" duration="13648000" />
+      <workItem from="1550046320939" duration="7689000" />
+      <workItem from="1550062484771" duration="4816000" />
+      <workItem from="1550139492176" duration="2813000" />
+      <workItem from="1550143628383" duration="8115000" />
+      <workItem from="1550301537911" duration="6742000" />
+      <workItem from="1550321343375" duration="6836000" />
+      <workItem from="1550331006438" duration="3124000" />
+      <workItem from="1550336135088" duration="6083000" />
+      <workItem from="1550344884488" duration="890000" />
+      <workItem from="1550394998921" duration="11945000" />
+      <workItem from="1550411785079" duration="12395000" />
+      <workItem from="1550488359319" duration="25045000" />
+      <workItem from="1550527792566" duration="1302000" />
+      <workItem from="1550578038236" duration="5178000" />
+      <workItem from="1550584469092" duration="18737000" />
+      <workItem from="1550603461144" duration="75000" />
+      <workItem from="1550603565232" duration="11816000" />
+      <workItem from="1550653470830" duration="3109000" />
+      <workItem from="1550662407247" duration="2411000" />
+      <workItem from="1550666020988" duration="1189000" />
+      <workItem from="1550668409211" duration="777000" />
+      <workItem from="1550669249445" duration="8048000" />
+      <workItem from="1550678191180" duration="2684000" />
+      <workItem from="1550681823569" duration="13464000" />
+      <workItem from="1550746080904" duration="6480000" />
+      <workItem from="1550741995142" duration="595000" />
+      <workItem from="1550747364983" duration="4260000" />
+      <workItem from="1550751887916" duration="4202000" />
+      <workItem from="1550768032286" duration="7935000" />
+      <workItem from="1550825496934" duration="1609000" />
+      <workItem from="1550829931766" duration="2329000" />
+      <workItem from="1550832918822" duration="2330000" />
+      <workItem from="1550838400118" duration="1952000" />
+      <workItem from="1550841219157" duration="3433000" />
+      <workItem from="1550844738512" duration="283000" />
+      <workItem from="1550904975749" duration="6781000" />
+      <workItem from="1550934073541" duration="810000" />
+      <workItem from="1550995792286" duration="428000" />
+      <workItem from="1550998086292" duration="308000" />
+      <workItem from="1550999561442" duration="112000" />
+      <workItem from="1550999898011" duration="106000" />
+      <workItem from="1551000775821" duration="317000" />
+      <workItem from="1551002190349" duration="3230000" />
+      <workItem from="1551005941682" duration="1070000" />
+      <workItem from="1551018495046" duration="66000" />
+      <workItem from="1551087828849" duration="861000" />
+      <workItem from="1551090194414" duration="3091000" />
+      <workItem from="1551095878991" duration="1025000" />
+      <workItem from="1551166779216" duration="20941000" />
+      <workItem from="1551255335086" duration="686000" />
+      <workItem from="1551379800968" duration="35000" />
+      <workItem from="1551441723460" duration="1591000" />
+      <workItem from="1551526239346" duration="10230000" />
+      <workItem from="1551540760135" duration="8045000" />
+      <workItem from="1551602758218" duration="991000" />
+      <workItem from="1551603777441" duration="8208000" />
+      <workItem from="1551614016636" duration="1499000" />
+      <workItem from="1551616082467" duration="1514000" />
+      <workItem from="1551617972614" duration="345000" />
+      <workItem from="1551618348991" duration="70000" />
+      <workItem from="1551618576703" duration="540000" />
+      <workItem from="1551619144547" duration="719000" />
+      <workItem from="1551621137605" duration="1838000" />
+      <workItem from="1551624080977" duration="5057000" />
+      <workItem from="1551632483394" duration="1899000" />
+      <workItem from="1551645354663" duration="1399000" />
+      <workItem from="1551694679268" duration="2502000" />
+      <workItem from="1551697905003" duration="10554000" />
+      <workItem from="1551775968755" duration="1973000" />
+      <workItem from="1551802628006" duration="3413000" />
+      <workItem from="1552044487918" duration="932000" />
+      <workItem from="1552046672394" duration="294000" />
+      <workItem from="1552130164897" duration="8314000" />
+      <workItem from="1552223125229" duration="287000" />
+      <workItem from="1552226202772" duration="772000" />
+      <workItem from="1552228007118" duration="11346000" />
+      <workItem from="1552229668239" duration="86000" />
+      <workItem from="1552229776144" duration="10287000" />
+      <workItem from="1552281936109" duration="11781000" />
+      <workItem from="1552293980731" duration="8299000" />
+      <workItem from="1552302493738" duration="721000" />
+      <workItem from="1552304145171" duration="4212000" />
+      <workItem from="1552308783506" duration="3514000" />
+      <workItem from="1552312890735" duration="3529000" />
+      <workItem from="1552319394423" duration="2534000" />
+      <workItem from="1552322052996" duration="531000" />
+      <workItem from="1552377800752" duration="3637000" />
+      <workItem from="1552393157891" duration="6467000" />
+      <workItem from="1552400017665" duration="65000" />
+      <workItem from="1552401186501" duration="295000" />
+      <workItem from="1552402517260" duration="479000" />
+      <workItem from="1552403041155" duration="6795000" />
+      <workItem from="1552418688835" duration="8386000" />
+      <workItem from="1552477030471" duration="13475000" />
+      <workItem from="1552495096671" duration="426000" />
+      <workItem from="1552495908053" duration="867000" />
+      <workItem from="1552496860945" duration="971000" />
+      <workItem from="1552563031195" duration="1083000" />
+      <workItem from="1552564950927" duration="130000" />
+      <workItem from="1552570196639" duration="75000" />
+      <workItem from="1552573967445" duration="176000" />
+      <workItem from="1552575947772" duration="133000" />
+      <workItem from="1552582309669" duration="749000" />
+      <workItem from="1552584979687" duration="1540000" />
+      <workItem from="1552587975487" duration="1326000" />
+      <workItem from="1552590210995" duration="78000" />
+      <workItem from="1552590763644" duration="7258000" />
+      <workItem from="1552599145834" duration="1302000" />
+      <workItem from="1552645063628" duration="611000" />
+      <workItem from="1552648920624" duration="330000" />
+      <workItem from="1552652893083" duration="7089000" />
+      <workItem from="1552665423936" duration="126000" />
+      <workItem from="1552666594814" duration="1102000" />
+      <workItem from="1552669980638" duration="855000" />
+      <workItem from="1552729694381" duration="2686000" />
+      <workItem from="1552734762205" duration="641000" />
+      <workItem from="1552738966051" duration="1188000" />
+      <workItem from="1552764179649" duration="7842000" />
+      <workItem from="1552772962746" duration="1019000" />
+      <workItem from="1552816244787" duration="8194000" />
+      <workItem from="1552825171607" duration="1338000" />
+      <workItem from="1552844327140" duration="160000" />
+      <workItem from="1552912869043" duration="2858000" />
+      <workItem from="1552918088096" duration="14822000" />
+      <workItem from="1552924819658" duration="2496000" />
+      <workItem from="1552994933421" duration="236000" />
+      <workItem from="1552996530253" duration="79000" />
+      <workItem from="1552999390421" duration="4180000" />
+      <workItem from="1553074579293" duration="3108000" />
+      <workItem from="1553151746085" duration="594000" />
+      <workItem from="1553155584253" duration="2649000" />
+      <workItem from="1553167473094" duration="524000" />
+      <workItem from="1553190050197" duration="2137000" />
+      <workItem from="1553257994675" duration="694000" />
+      <workItem from="1553320230423" duration="7171000" />
+      <workItem from="1553334102280" duration="707000" />
+      <workItem from="1553337095915" duration="734000" />
+      <workItem from="1553406538980" duration="339000" />
+      <workItem from="1553408173558" duration="172000" />
+      <workItem from="1553409795046" duration="1714000" />
+      <workItem from="1553418078402" duration="206000" />
+      <workItem from="1553418453661" duration="894000" />
+      <workItem from="1553424895846" duration="1030000" />
+      <workItem from="1553427474416" duration="103000" />
+      <workItem from="1553567815521" duration="2062000" />
+      <workItem from="1553571050872" duration="10819000" />
+      <workItem from="1553584041554" duration="388000" />
+      <workItem from="1553584755181" duration="1183000" />
+      <workItem from="1553590642642" duration="970000" />
+      <workItem from="1553656789098" duration="163000" />
+      <workItem from="1553657145990" duration="20332000" />
+      <workItem from="1553677551555" duration="8536000" />
+      <workItem from="1553686132029" duration="1110000" />
+      <workItem from="1553739646312" duration="2361000" />
+      <workItem from="1553742061164" duration="12205000" />
+      <workItem from="1553756495262" duration="716000" />
+      <workItem from="1553757909709" duration="12507000" />
+      <workItem from="1553771230798" duration="195000" />
+      <workItem from="1553772050387" duration="325000" />
+      <workItem from="1553772462043" duration="90000" />
+      <workItem from="1553826983897" duration="136000" />
+      <workItem from="1553827134350" duration="5700000" />
+      <workItem from="1553834953038" duration="18088000" />
+      <workItem from="1553854650362" duration="1326000" />
+      <workItem from="1554086141386" duration="9157000" />
+      <workItem from="1554117588448" duration="257000" />
+      <workItem from="1554172876221" duration="27000" />
+      <workItem from="1554198929270" duration="678000" />
+      <workItem from="1554199628941" duration="229000" />
+      <workItem from="1554199877448" duration="72000" />
+      <workItem from="1554200386535" duration="403000" />
+      <workItem from="1554201092379" duration="1245000" />
+      <workItem from="1554258860545" duration="17518000" />
+      <workItem from="1554277934857" duration="49000" />
+      <workItem from="1554280479145" duration="1235000" />
+      <workItem from="1554283511852" duration="7302000" />
+      <workItem from="1554345160049" duration="9965000" />
+      <workItem from="1554355458199" duration="3123000" />
+      <workItem from="1554360923327" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="871813000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957393" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.40016103" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48464164" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32423207" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32829046" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32423207" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19591528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19591528" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4778157" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40784982" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54948807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957393" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.40016103" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48976108" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32423207" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32829046" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4453925" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.60580206" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48976108" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32423207" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20196672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="674" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1105">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/GrpHdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="1156">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/PmtInf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="817" max-vertical-offset="3706">
+          <caret line="82" column="38" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2985" max-vertical-offset="3655">
+          <caret line="244" column="0" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2227">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2726" max-vertical-offset="3196">
+          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1234" max-vertical-offset="2210">
+          <caret line="139" column="170" selection-start-line="139" selection-start-column="170" selection-end-line="139" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3196">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2959" max-vertical-offset="4590">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sendXML.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="612">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/service/CustomDialectToMsSql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1559633" vertical-offset="0" max-vertical-offset="545">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="941" max-vertical-offset="4318">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../ojdbc7.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../ojdbc7.jar!/oracle/core/lmx/CoreException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13076924" vertical-offset="0" max-vertical-offset="731">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/mycss/list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/InitgPty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2437276" vertical-offset="0" max-vertical-offset="558">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/Id.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2437276" vertical-offset="0" max-vertical-offset="558">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlGrpInfAndSts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/allRejTable.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5658363" vertical-offset="113" max-vertical-offset="510">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/Rsn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39605734" vertical-offset="0" max-vertical-offset="558">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/StsRsnInf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5483871" vertical-offset="0" max-vertical-offset="558">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/TxInfAndSts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45698926" vertical-offset="68" max-vertical-offset="680">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/Amt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4265233" vertical-offset="0" max-vertical-offset="558">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndStsUnd/OrgnlTxRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51792115" vertical-offset="0" max-vertical-offset="558">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/GrpHdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/OrgnlPmtInfAndSts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7562724" vertical-offset="88" max-vertical-offset="646">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/mycss/xmlupload.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5902778" vertical-offset="0" max-vertical-offset="288">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25914633" vertical-offset="0" max-vertical-offset="4981">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37226278" vertical-offset="816" max-vertical-offset="1105">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.989051" vertical-offset="920" max-vertical-offset="4777">
+          <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/models4testokhttp/Products.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/allpmt.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4734849" vertical-offset="359" max-vertical-offset="1819">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/models4testokhttp/Courier2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1615">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/RequestToFognRes.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1480145" vertical-offset="187" max-vertical-offset="1003">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/models4testokhttp/MyOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8877888" vertical-offset="1091" max-vertical-offset="1734">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/modelsToXml/CstmrPmtStsRpt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70071685" vertical-offset="0" max-vertical-offset="561">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/rest_api/MyRestControllerToAndroid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3046595" vertical-offset="0" max-vertical-offset="558">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/headers/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75102043" vertical-offset="343" max-vertical-offset="901">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/headers/header2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0" vertical-offset="71" max-vertical-offset="833">
+          <caret line="33" column="76" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/PmtInf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33512545" vertical-offset="0" max-vertical-offset="3417">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/GrpHdr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29928315" vertical-offset="37" max-vertical-offset="1156">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="2704" max-vertical-offset="3196">
+          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/RejTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="697">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/service/MyServiceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="639" max-vertical-offset="1411">
+          <caret line="121" column="47" selection-start-line="121" selection-start-column="43" selection-end-line="121" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sendXML.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5277778" vertical-offset="462" max-vertical-offset="867">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9279661" vertical-offset="903" max-vertical-offset="1445">
+          <caret line="222" column="54" selection-start-line="222" selection-start-column="54" selection-end-line="222" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printWelcome#0;class#HelloController#0" expanded="false" />
+            <element signature="method#getlist#0;class#HelloController#0" expanded="false" />
+            <element signature="method#testokhttp#0;class#HelloController#0" expanded="false" />
+            <element signature="method#testokhttp#1;class#HelloController#0" expanded="false" />
+            <element signature="method#getlistRejTable#0;class#HelloController#0" expanded="false" />
+            <element signature="method#generate#0;class#HelloController#0" expanded="false" />
+            <element signature="method#generateXml#0;class#HelloController#0" expanded="false" />
+            <element signature="method#generateXmlFromRejtable#0;class#HelloController#0" expanded="false" />
+            <element signature="method#generateXmlFromRejtableDoneIsNull#0;class#HelloController#0" expanded="false" />
+            <element signature="method#xmlParser#0;class#HelloController#0" expanded="false" />
+            <element signature="method#removeData#0;class#HelloController#0" expanded="false" />
+            <element signature="method#parseAndSaveXml#0;class#HelloController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46919432" vertical-offset="462" max-vertical-offset="969">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>dealer:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|dealer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-webmvc:5.1.3.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
